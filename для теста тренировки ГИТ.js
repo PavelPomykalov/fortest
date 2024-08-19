@@ -3,3 +3,4 @@ console.log(a)
 const n=2
 console.log(n)
 console.log("hello")
+console.log('Pavel')
